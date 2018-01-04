@@ -59,6 +59,8 @@ p {
   margin-left: auto;
   font-family: Helvetica;
   color: white;
+    padding: 3px;
+  padding-left: 10px;
 }
 /* Simple Responsive Framework. */
 .row {
