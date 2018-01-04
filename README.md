@@ -1,11 +1,12 @@
-Hola!!!
+
+## Cousera Asigment Module 2
+
+You can see how the website looks on the following link [editor on GitHub](https://github.com/julioe/fullstackCourse/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://julioe.github.io/fullstackCourse/module2-solution/) 
 
 
-## bienvenido to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/julioe/fullstackCourse/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
