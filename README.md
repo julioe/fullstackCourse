@@ -5,5 +5,5 @@ You can see how the website looks on the following link [Asigment 2](https://jul
 
 ## Mexican food Menu
 
-Mexican food Menu, with 3 items adaptatives and a shiny black background.
+Mexican food Menu, with 3 items adaptatives and a shiny background.
 
